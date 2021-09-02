@@ -1,6 +1,7 @@
 # IVAC - Vaccination Hub
 
 ### All in One Vaccination Management on the Go
+![](https://github.com/AhmedRaja1/IVAC-Vaccination-Hub/blob/main/IVAC-Logo.png)
 
 <img src="https://raw.githubusercontent.com/AshleyAlexJacob/IVAC-Vaccination-Hub/master/Ivac.jpg" height=500>
 
